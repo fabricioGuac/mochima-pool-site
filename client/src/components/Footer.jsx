@@ -5,7 +5,7 @@ export default function Footer() {
         <div className="flex flex-col items-center text-center space-y-4">
             <img src="/logo.jpg" alt="Mochima Pool Service Logo" className="w-16 rounded-lg" />
             <p className="font-bold text-lg">Mochima Pool Service</p>
-            <p className="text-sm italic">"Making your pool sparkle, one clean at a time!"</p>
+            <p className="text-sm italic">"Inspired by Nature, Perfected for Your Pool"</p>
             <div className="text-sm space-y-1">
                 <p>Email: <a href="mailto:mochimapools@gmail.com" className="hover:text-teal-300">mochimapools@gmail.com</a></p>
                 <p>Phone: <a href="tel:+16896801646" className="hover:text-teal-300">(689) 680-1646</a></p>

@@ -36,7 +36,7 @@ export default function App() {
 
 
   return (
-    <div className="relative min-h-screen bg-gray-100 font-sans flex flex-col">
+    <div className="relative min-h-screen bg-gray-100 font-sans flex flex-col ">
 
       <aside
         className={`fixed top-0 right-0 h-full w-64 bg-teal-700 text-white transform transition-transform duration-300 ${isMenuOpen ? "translate-x-0" : "translate-x-full"
@@ -54,19 +54,23 @@ export default function App() {
         </header>
 
         <main className="flex-grow">
-          <section id="about" className="p-8 bg-white">
+          <section id="about" className="p-8 bg-white flex justify-center items-center">
             <AboutUs />
           </section>
-          <section id="services" className="p-8 bg-gray-50">
+
+          <section id="services" className="p-8 bg-gray-50 flex justify-center items-center">
             <Services />
           </section>
-          <section id="testimonials" className="p-8 bg-white">
+
+          <section id="testimonials" className="p-8 bg-white flex justify-center items-center">
             <Testimonials />
           </section>
-          <section id="contact" className="p-8 bg-gray-50">
+
+          <section id="contact" className="p-8 bg-gray-50 flex justify-center items-center">
             <Contact />
           </section>
         </main>
+
 
         <footer className="p-4 bg-teal-700 text-white text-center">
           <Footer />
@@ -75,3 +79,4 @@ export default function App() {
     </div>
   );
 }
+
