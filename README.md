@@ -19,7 +19,7 @@ Visit the provided link to access this single-page application, where you will f
 
 ## URL to the deployed app
 
-https://tumorido-fittrack.onrender.com
+
 
 ## Credits
 
