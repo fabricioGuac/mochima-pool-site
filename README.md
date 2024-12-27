@@ -1,8 +1,8 @@
-# Mochima Pool Site
+# Mochima pool site
 
 ## Description 
 
-Mochima Pool Site is a streamlined, fully responsive React application styled with Tailwind CSS, designed for a pool cleaning company. The website serves as an accessible and user-friendly platform for potential clients to learn about the business, offering essential information about services, company background, and contact options. Its clean design ensures an engaging and straightforward browsing experience.
+
 
 ## Instalation
 
@@ -10,12 +10,11 @@ N/A
 
 ## Usage
 
-Visit the provided link to access this single-page application, where you will find a well-organized display of business information, services offered, customer testimonials, and contact details. The site also includes a convenient contact form, enabling visitors to directly reach out to the team for inquiries or service requests in a seamless and professional manner.
 
 
 ## Screenshot displaying the deployed app
 
-![Screenshot of the site](./screenshot.png)
+![]()
 
 ## URL to the deployed app
 
@@ -24,6 +23,10 @@ Visit the provided link to access this single-page application, where you will f
 ## Credits
 
 N/A
+
+## Contributing
+
+We welcome contributions to this project! To contribute, please follow these steps: 1. Fork the repository. 2. Create a new branch for your feature or bug fix. 3. Make your changes. 4. Test your changes locally. 5. Commit your changes with a clear commit message. 6. Push your changes to your fork. 7. Submit a pull request to the main repository's branch. Thank you for contributing to this project!
 
 
 ## License
